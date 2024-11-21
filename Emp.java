@@ -12,6 +12,6 @@ public class Emp extends Object
     }
     public String toString()
     {
-        return getClass().getName()+"@["+eno+"]";
+        return "["+eno+"]";
     }
 }
